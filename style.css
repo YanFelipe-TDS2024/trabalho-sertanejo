@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+a {
+    color:white;
+}
+
 a:visited {
     color: white;
 }
@@ -106,4 +110,5 @@ body {
 
 .imagem-rede-social {
     width: 60%;
+
 }
