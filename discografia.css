@@ -68,3 +68,12 @@
 .titulo-menor {
     font-size: 15px;
 }
+
+.lyric-videos {
+    justify-content: center;
+}
+
+.lyric-video {
+    display: flex;
+    margin-bottom:25px;
+}
